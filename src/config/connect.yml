@@ -1,0 +1,8 @@
+---
+development:
+  access_key: xyx_dev
+qa:
+  access_key: xyz_qa
+production:
+  access_key: xyz_prod
+region: us-east-1
